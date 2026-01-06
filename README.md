@@ -19,7 +19,9 @@ The goal of this list is to **hard-block** obvious garbage domains before they e
 This repository contains a Python script to manage and generate the blocklists.
 
 * `generate_fuckoff_lists.py`: The main logic script. It reads the raw source, removes duplicate domains, and generates the output files.
-* `raw_junk_email_domains.json`: The source file containing the raw list of domains.
+* `add_domains.py`: Adds new domains or email addresses (domain part extracted) to the raw list and updates the timestamp.
+* `update_and_push.sh`: Adds domains, regenerates output lists, commits, and pushes to GitHub.
+* `raw_junk_email_domains.json`: The source file containing the raw list of domains with per-domain timestamps.
 * `fuckoff.json`: The clean, deduplicated list for production use.
 * `fuckoff_debug.json`: The deduplicated list with `proton.me` appended to test Power Automate flows without waiting for actual spam.
 
@@ -30,4 +32,16 @@ Run the script to update the lists after adding new domains to the raw JSON file
 ```bash
 python3 generate_fuckoff_lists.py
 
+```
+
+Add domains or email addresses directly:
+
+```bash
+python3 add_domains.py spam.example.com noreply@spammy.org
+```
+
+Add domains and publish in one step:
+
+```bash
+./update_and_push.sh spam.example.com noreply@spammy.org
 ```

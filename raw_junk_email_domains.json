@@ -1,73 +1,302 @@
 [
-    "globaljrnl.com",
-    "zycentre.com",
-    "acdsa.org",
-    "md.iacop.cn",
-    "growkudos.com",
-    "enpress-publisher.net",
-    "ukscip.com",
-    "188.com",
-    "icarchup.com",
-    "vip.126.com",
-    "mcny.edu",
-    "email.iamset.org",
-    "163.com",
-    "enpress-pub.net",
-    "books.intechopen.com",
-    "icagrbio.org",
-    "scirp.org",
-    "ijsrm.in",
-    "ijsrm.com",
-    "books.intechopen.com",
-    "worlds4.co.uk",
-    "opensciencerepository.com",
-    "opetive.com",
-    "icecer.com",
-    "zgxshy.net",
-    "bioscij.com",
-    "pendosurvey.com",
-    "eopenaccesspublications.com",
-    "oajp.org",
-    "refontelearning.com",
-    "greatrouter.com",
-    "checkmymanuscript.com",
-    "globalopenaccess.com",
-    "acad-pub.com",
-    "algora.io",
-    "omniscipublish.net",
-    "jjobecs.org",
-    "icict.co.uk",
-    "cellpress-cp.email.elsevier.com",
-    "scijournal.net",
-    "journals.email.elsevier.com",
-    "go.icneom.org",
-    "scineer.net",
-    "icecet.com",
-    "vip.163.com",
-    "saiconference.com",
-    "talent-link.cn",
-    "wiserpub.org",
-    "news.intechopen.com",
-    "iaaaso.asia",
-    "buaa.edu.cn",
-    "editpub.net",
-    "jrnhub.com",
-    "accscience.org",
-    "info.bestofbusinesstoday.com",
-    "intccbe.org",
-    "icphms.org",
-    "cofotu.com",
-    "ahu.edu.jo",
-    "novapublishers.com",
-    "tiscali.it",
-    "aims-conference.ai",
-    "ajobb.net",
-    "committeeoffline.com",
-    "author.email.elsevier.com",
-    "us.confirmit.com",
-    "lv.artinhci.com",
-    "ijimm.org",
-    "nexus-pub.cn",
-    "deepshare.net",
-    "confeees.org"
+  {
+    "domain": "globaljrnl.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "zycentre.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "acdsa.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "md.iacop.cn",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "growkudos.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "enpress-publisher.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ukscip.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "188.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icarchup.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "vip.126.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "mcny.edu",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "email.iamset.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "163.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "enpress-pub.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "books.intechopen.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icagrbio.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "scirp.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ijsrm.in",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ijsrm.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "worlds4.co.uk",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "opensciencerepository.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "opetive.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icecer.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "zgxshy.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "bioscij.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "pendosurvey.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "eopenaccesspublications.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "oajp.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "refontelearning.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "greatrouter.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "checkmymanuscript.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "globalopenaccess.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "acad-pub.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "algora.io",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "omniscipublish.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "jjobecs.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icict.co.uk",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "cellpress-cp.email.elsevier.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "scijournal.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "journals.email.elsevier.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "go.icneom.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "scineer.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icecet.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "vip.163.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "saiconference.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "talent-link.cn",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "wiserpub.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "news.intechopen.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "iaaaso.asia",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "buaa.edu.cn",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "editpub.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "jrnhub.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "accscience.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "info.bestofbusinesstoday.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "intccbe.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "icphms.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "cofotu.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ahu.edu.jo",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "novapublishers.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "tiscali.it",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "aims-conference.ai",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ajobb.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "committeeoffline.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "author.email.elsevier.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "us.confirmit.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "lv.artinhci.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "ijimm.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "nexus-pub.cn",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "deepshare.net",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "confeees.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "acrm-pmr.org",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "medtechnoment.com",
+    "added_at": "2026-01-06T20:43:47Z"
+  },
+  {
+    "domain": "nr.ocoip.com",
+    "added_at": "2026-01-06T20:45:44Z"
+  },
+  {
+    "domain": "iceccme.com",
+    "added_at": "2026-01-06T20:48:29Z"
+  },
+  {
+    "domain": "lunor.ai",
+    "added_at": "2026-01-06T20:50:34Z"
+  }
 ]
