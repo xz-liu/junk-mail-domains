@@ -1,0 +1,30 @@
+name: Release on push
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build release body
+        run: |
+          {
+            cat fuckoff.json
+          } > release_body.md
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "auto-${{ github.sha }}"
+          name: "Auto release ${{ github.sha }}"
+          body_path: release_body.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
