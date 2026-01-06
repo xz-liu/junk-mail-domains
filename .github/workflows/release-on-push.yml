@@ -17,7 +17,7 @@ jobs:
       - name: Build release body
         run: |
           {
-            cat fuckoff.json
+            cat fuckoff_debug.json
           } > release_body.md
 
       - name: Create release
