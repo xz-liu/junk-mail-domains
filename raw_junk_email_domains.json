@@ -77,7 +77,7 @@
   },
   {
     "domain": "worlds4.co.uk",
-    "added_at": "2026-01-06T20:43:47Z"
+    "added_at": "2026-04-06T05:46:56Z"
   },
   {
     "domain": "opensciencerepository.com",
@@ -430,5 +430,9 @@
   {
     "domain": "bigearthdata.com",
     "added_at": "2026-04-02T15:34:56Z"
+  },
+  {
+    "domain": "scholarcolab.com",
+    "added_at": "2026-04-06T05:46:56Z"
   }
 ]
